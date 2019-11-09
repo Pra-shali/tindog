@@ -1,2 +1,1 @@
-# tindog
-Website is made using Bootstrap classes
+TinDog Starting Files
